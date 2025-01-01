@@ -5,3 +5,6 @@
 theme: jekyll-theme-minimal
 title: puheterapiaa
 description: Puheterapiaa paikallisesti Helsingissä.
+
+github:
+  is_project_page: false
